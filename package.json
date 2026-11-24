@@ -1,0 +1,14 @@
+
+{
+  "name": "gg-rwl",
+  "version": "1.0.0",
+  "description": "Gg/Rwl Discord voice bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "@discordjs/voice": "^0.18.0"
+  }
+}
